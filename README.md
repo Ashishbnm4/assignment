@@ -1,13 +1,19 @@
 # AWS DevOps Engineer Internship Assignment
 
-## Name
-Ashish Mishra
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AWS DevOps Assignment</title>
+</head>
+<body>
+    <h1>Ashish Mishra</h1>
+    <h2>Mewar University</h2>
+    <p>Branch: Computer Science & Engineering</p>
+    <p>Email: ashishbnm4@gmail.com</p>
+    <p>Date: 09 July 2026</p>
+</body>
+</html>
 
-## College
-Mewar University
-
-## Branch
-Computer Science & Engineering
 
 ## Task 1 - EC2
 - Created Ubuntu EC2 Instance
